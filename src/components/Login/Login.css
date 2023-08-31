@@ -1,0 +1,49 @@
+  .loginContainer {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 60px;
+    background-image: linear-gradient(to bottom, #2474dc, #a1bde2);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    width: 30%;
+  }
+  
+  .loginTitle {
+    font-size: 24px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: white;
+  }
+  
+  .loginForm {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 300px;
+  }
+  
+  .loginForm input[type="password"] {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .loginButton {
+    /* width: 100px; */
+    margin-top: 10px;
+    margin-bottom: 21px;
+    height: 60px;
+    background-color: white;
+  }
+
+  .errorMessage {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color: rgb(240, 10, 10);
+    text-align: center;
+  }
+

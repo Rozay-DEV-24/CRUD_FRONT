@@ -1,0 +1,85 @@
+.main {
+  margin-left: 80px;
+}
+
+.form {
+  margin-left: 630px;
+  font-size: larger;
+  color: rgb(83, 236, 236);
+}
+.text {
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.first {
+  display: flex;
+}
+.second {
+  display: flex;
+}
+.third {
+  display: flex;
+}
+.submit {
+  margin-left: 330px;
+  margin-top: 10px;
+  height: 50px;
+  width: 80px;
+  border-radius: 15px;
+}
+
+#name {
+  margin-left: 80px;
+  margin-top: 10px;
+  height: 30px;
+  width: 500px;
+  padding-left: 10px;
+}
+#lname {
+  margin-left: 36px;
+  margin-top: 12px;
+  height: 30px;
+  width: 500px;
+  padding-left: 10px;
+}
+#email {
+  margin-left: 65px;
+  margin-top: 12px;
+  height: 30px;
+  width: 500px;
+  padding-left: 10px;
+}
+.tablu {
+  margin-top: 50px;
+  margin-left: 350px;
+  width: 800px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  height: 20px;
+}
+.edit {
+  display: flex;
+}
+.myform {
+  margin: auto;
+}
+.mytable {
+  margin-top: 5px;
+  margin-left: 50px;
+  margin-right: 20px;
+  height: auto;
+  width: 1000px;
+}
+.alignCheck {
+  display: flex;
+}
+
+.ffname {
+  width: 100px;
+}
+.btn {
+  margin-top: 10px;
+}
